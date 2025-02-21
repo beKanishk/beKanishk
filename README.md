@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-Hi, I'm **[Kanishk Agarwal]**! A passionate **Java Backend Developer** in the making. I love building scalable applications and solving problems through **Data Structures & Algorithms**.  
+Hi, I'm **Kanishk Agarwal**! A passionate **Java Backend Developer** in the making. I love building scalable applications and solving problems through **Data Structures & Algorithms**.  
 
 ### 🚀 About Me  
 - Aspiring **Java Backend Developer**  
