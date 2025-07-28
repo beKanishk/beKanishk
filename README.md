@@ -10,17 +10,17 @@ Hi, I'm **Kanishk Agarwal**! A passionate **Java Backend Developer** in the maki
 ### 💻 Tech Stack  
 - **Backend:** Java, Spring Boot, SQL, MongoDB (learning)  
 - **Frontend:** React, HTML, JavaScript  
-- **Other Languages:** C++  
+- **Other Languages:** C++, Python  
 - **DSA Practice:** LeetCode | GeeksforGeeks  
 
 ### 📌 Projects  
 - Built applications using **Spring Boot & React**  
 
 ### 📚 Currently Learning  
-- MongoDB & improving backend development skills  
+- Agentic AI & improving backend development skills  
 
 🚀 **Let's connect!**  
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk-agarwal-806b15213/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akanishk/)  
 
 
