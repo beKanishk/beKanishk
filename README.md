@@ -8,7 +8,7 @@ Hi, I'm **Kanishk Agarwal**! A passionate **Java Backend Developer** in the maki
 - Love to build **efficient & scalable applications**  
 
 ### 💻 Tech Stack  
-- **Backend:** Java, Spring Boot, SQL, MongoDB (learning)  
+- **Backend:** Java, Spring Boot, SQL, MongoDB
 - **Frontend:** React, HTML, JavaScript  
 - **Other Languages:** C++, Python  
 - **DSA Practice:** LeetCode | GeeksforGeeks  
